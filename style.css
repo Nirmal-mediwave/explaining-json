@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    font-size: 2em;
+}
+
+#container {
+    display: flex;
+}
+
+.item {
+    border: grey 1px solid;
+    margin-right: 1em;
+    padding: 10px;
+}
